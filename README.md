@@ -1,4 +1,4 @@
-👋 hi, i'm jining, mechanical/electronics engineering high school student & software developer in Austin, USA, from Nanjing & Hangzhou, China. 🌐☮️
+👋 hi, i'm jining, mechanical/electronics engineering high school student & software developer in Austin, USA, from Nanjing & Hangzhou, China. 🌐☮️ currently procrastinating...
 
 📡 [websockets](https://developer.mozilla.org/docs/Web/API/WebSockets_API) are awesome and [bun](https://bun.sh) is the goat 🐐.
 
