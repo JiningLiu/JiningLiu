@@ -1,4 +1,4 @@
-> 16. World's #1 procrastinator ⌛, Wii Sports enthusiast 🎾, and full stack student developer in Austin, TX 👨‍💻
+> 17. ~~World's #1 procrastinator~~ Now anti-procrastinating!!! ⌛, Wii Sports enthusiast 🎾, and full stack student developer in Austin, TX 👨‍💻
 
 👋 Hi, I'm Jining, mechanical/electronics engineering high school student & iOS + full stack web developer in Austin, USA, from Nanjing & Hangzhou, China. 🌐☮️
 
