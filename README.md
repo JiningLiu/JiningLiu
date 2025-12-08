@@ -1,8 +1,6 @@
-> 17. ~~World's #1 procrastinator~~ Now anti-procrastinating!!! ⌛, Wii Sports enthusiast 🎾, and full stack student developer in Austin, TX 👨‍💻
+> 17. i make stuff and write code to run on those stuff, or on stuff like ur phone.
 
 👋 Hi, I'm Jining, mechanical/electronics engineering high school student & iOS + full stack web developer in Austin, USA, from Nanjing & Hangzhou, China. 🌐☮️
-
-Headed for  **WWDC25**!
 
 ---
 
@@ -17,3 +15,5 @@ Headed for  **WWDC25**!
 ##### Swift, SwiftUI, Svelte & SvelteKit, HTML/CSS/JS/TS, Node.js & Bun APIs, Arduino C++
 
 ##### 🎓 Currently learning: Kotlin & Compose Multiplatform!
+
+ WWDC25 attendee
