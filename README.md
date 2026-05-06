@@ -1,18 +1,18 @@
 > 17. i make stuff and write code to run on those stuff, or on stuff like ur phone.
 
-👋 Hi, I'm Jining, mechanical/electronics engineering high school student & iOS + full stack web developer in Austin, USA, from Nanjing & Hangzhou, China. 🌐☮️
+👋 Hi, I'm Jining, incoming UT Austin MechE student ('30) & iOS + full stack web developer, from Nanjing & Hangzhou, China. 🌐☮️
 
 ---
 
-🤖 Currently working on [RPi-based live streaming system](https://github.com/JiningLiu/stream-cam), [scorer app](https://ftcscoring.app) for the [*FIRST*® Tech Challenge](https://www.firstinspires.org/robotics/ftc), and hardware + outreach for team [20240 Slingshot](https://slingshot20240.com).
+🤖 FTC 20240a [Slingshot](https://ftc-events.firstinspires.org/team/20240) hardware + outreach (23-26), creator of [ftcscoring.app](https://ftcscoring.app) with 900k+ points scored across 40+ countries. Worlds 2026.
 
-🚀 Thrust vector controlled (TVC) model rocket launching summer 2025. 🛠️
+🚀 Thrust vector controlled (TVC) model rocket launching ~~summer 2025~~ *who knows when*... 🛠️
 
 ---
 
 ##### Shapr3D, Onshape, Fusion & Inventor, Prusa & Bambu Lab, KiCad, OpenRocket
 
-##### Swift, SwiftUI, Svelte & SvelteKit, HTML/CSS/JS/TS, Node.js & Bun APIs, Arduino C++
+##### Swift, SwiftUI, Svelte & SvelteKit, HTML/CSS/JS/TS, Node.js & Bun, Arduino C++
 
 ##### 🎓 Currently learning: Kotlin & Compose Multiplatform!
 
