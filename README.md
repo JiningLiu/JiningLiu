@@ -1,4 +1,4 @@
-> 17. i make stuff and write code to run on those stuff, or on stuff like ur phone.
+> 18. i make stuff and write code to run on those stuff, or on stuff like ur phone.
 
 👋 Hi, I'm Jining, incoming UT Austin MechE student ('30) & iOS + full stack web developer, from Nanjing & Hangzhou, China. 🌐☮️
 
